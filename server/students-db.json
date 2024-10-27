@@ -1,0 +1,264 @@
+{
+  "student": [
+    {
+      "fullname": "Djarot Tidak Purnomo",
+      "address": "Sby",
+      "phoneNumber": "",
+      "birthDate": "1995-03-31",
+      "gender": "Female",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "fullname": "Anshori Atmodiredjo",
+      "profilePicture": "https://randomuser.me/api/portraits/men/47.jpg",
+      "address": "Bandung, Indonesia",
+      "birthDate": "1993-08-21",
+      "gender": "Male",
+      "phoneNumber": "+6289876543210",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Matematika"
+    },
+    {
+      "fullname": "Michael JJJ",
+      "profilePicture": "",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "fullname": "Sarah Tan",
+      "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+      "address": "Yogyakarta, Indonesia",
+      "birthDate": "1994-11-12",
+      "gender": "Female",
+      "phoneNumber": "+6289999999999",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Publik"
+    },
+    {
+      "id": "5",
+      "fullname": "Ahmad Abdullah",
+      "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-06-28",
+      "gender": "Male",
+      "phoneNumber": "+6287777777777",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Teknik Sipil"
+    },
+    {
+      "fullname": "Lisa Tidak Wong",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "1996-10-12",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "fullname": "David Lee",
+      "profilePicture": "https://randomuser.me/api/portraits/men/7.jpg",
+      "address": "Jakarta, Indonesia",
+      "birthDate": "1995-07-17",
+      "gender": "Male",
+      "phoneNumber": "+6282222222222",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Fisika"
+    },
+    {
+      "fullname": "Siti Tidak Indah",
+      "profilePicture": "https://randomuser.me/api/portraits/women/8.jpg",
+      "address": "Bandung, Indonesia",
+      "phoneNumber": "+6283333333333",
+      "birthDate": "1992-12-25",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Manajemen",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "fullname": "Budi Santoso",
+      "profilePicture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "address": "Yogyakarta, Indonesia",
+      "birthDate": "1994-04-09",
+      "gender": "Male",
+      "phoneNumber": "+6284444444444",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Manajemen"
+    },
+    {
+      "fullname": "Rina Belum Amalia",
+      "profilePicture": "https://randomuser.me/api/portraits/women/10.jpg",
+      "address": "Ini Saya Edit",
+      "phoneNumber": "+6299999999999",
+      "birthDate": "1997-10-26",
+      "gender": "Male",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika",
+      "id": "10"
+    },
+    {
+      "fullname": "Andre Tidak Jaya",
+      "profilePicture": "https://randomuser.me/api/portraits/men/11.jpg",
+      "address": "Surabaya, Indonesia",
+      "phoneNumber": "1998-02-18",
+      "birthDate": "Male",
+      "gender": "+6287777777777",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika",
+      "id": "11"
+    },
+    {
+      "fullname": "Rudi Tambunan",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "1993-03-26",
+      "gender": "Female",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Teknik Sipil",
+      "id": "13"
+    },
+    {
+      "fullname": "Lina tidak hartati",
+      "profilePicture": "https://randomuser.me/api/portraits/women/14.jpg",
+      "address": "Yogyakarta, Indonesia",
+      "phoneNumber": "+6281010101010",
+      "birthDate": "1994-08-05",
+      "gender": "Female",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Teknik Sipil",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "fullname": "Hendro Wijaya",
+      "profilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-01-22",
+      "gender": "Male",
+      "phoneNumber": "+6281212121212",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Bisnis"
+    },
+    {
+      "fullname": "Tono waawawa",
+      "profilePicture": "",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi",
+      "id": "17"
+    },
+    {
+      "fullname": "Nina Tidak Wahyuni",
+      "profilePicture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "address": "Bandung, Indonesia",
+      "phoneNumber": "+6281515151515",
+      "birthDate": "1993-05-27",
+      "gender": "Female",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Manajemen",
+      "id": "18"
+    },
+    {
+      "id": "20",
+      "fullname": "Rika Setyawati",
+      "profilePicture": "https://randomuser.me/api/portraits/women/20.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-07-20",
+      "gender": "Female",
+      "phoneNumber": "+6281717171717",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Publik"
+    },
+    {
+      "id": "21",
+      "fullname": "Eko Prasetyo",
+      "profilePicture": "https://randomuser.me/api/portraits/men/21.jpg",
+      "address": "Surabaya, Indonesia",
+      "birthDate": "1998-10-16",
+      "gender": "Male",
+      "phoneNumber": "+6281818181818",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Teknik Sipil"
+    },
+    {
+      "fullname": "Rina wkwk",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi",
+      "id": "22"
+    },
+    {
+      "fullname": "Sari Bumdi",
+      "profilePicture": "",
+      "address": "",
+      "phoneNumber": "",
+      "birthDate": "",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi",
+      "id": "24"
+    },
+    {
+      "id": "26",
+      "fullname": "Rini Hartati",
+      "profilePicture": "https://randomuser.me/api/portraits/women/26.jpg",
+      "address": "Surabaya, Indonesia",
+      "birthDate": "1996-02-21",
+      "gender": "Female",
+      "phoneNumber": "+6282323232323",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Arsitektur"
+    },
+    {
+      "id": "27",
+      "fullname": "Andi Wijaya",
+      "profilePicture": "https://randomuser.me/api/portraits/men/27.jpg",
+      "address": "Jakarta, Indonesia",
+      "birthDate": "1995-08-17",
+      "gender": "Male",
+      "phoneNumber": "+6282424242424",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika"
+    },
+    {
+      "id": "28",
+      "fullname": "Tina Cahaya",
+      "profilePicture": "https://randomuser.me/api/portraits/women/28.jpg",
+      "address": "Bandung, Indonesia",
+      "birthDate": "1993-03-14",
+      "gender": "Female",
+      "phoneNumber": "+6282525252525",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Matematika"
+    },
+    {
+      "id": "0ae8",
+      "fullname": "Isla",
+      "profilePicture": "https://randomuser.me/api/portraits/women/64.jpg",
+      "address": "Sby",
+      "phoneNumber": "0812345678",
+      "birthDate": "2024-10-09",
+      "gender": "Female",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika"
+    }
+  ]
+}
